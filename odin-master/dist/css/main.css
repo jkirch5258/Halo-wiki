@@ -1,0 +1,130 @@
+/*** sectioning elements ***/
+
+
+@font-face {
+    font-family: 'haloregular';
+    src: url('font/halo-webfont.woff2') format('woff2'),
+         url('/fonthalo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+    font-family: haloregular;
+    font-size:100px;
+    text-align:center;
+}
+
+h2 {
+    font-family: haloregular;
+    font-size:50px;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+    max-width: 100%;
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
